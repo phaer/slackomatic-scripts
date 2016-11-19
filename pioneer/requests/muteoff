@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "MF" | telnet 10.20.32.69 8102
